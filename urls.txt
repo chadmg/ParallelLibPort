@@ -1,0 +1,5 @@
+https://learn.adafruit.com/2-8-tft-touchscreen/tft-wiring
+http://garretlab.web.fc2.com/en/arduino/inside/arduino/Arduino.h/digitalPinToPort.html
+http://mbed.org/cookbook/Writing-a-Library
+https://mbed.org/users/mbed_official/code/mbed/docs/552587b429a1/classmbed_1_1PortOut.html#a206e09e33cf869449596a981e28c723a
+https://mbed.org/platforms/ST-Nucleo-F103RB/
